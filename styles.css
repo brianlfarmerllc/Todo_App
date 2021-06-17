@@ -22,6 +22,10 @@ form {
   justify-content: center;
   align-items: center;
 }
+form {
+  display: flex;
+  flex-direction: column;
+}
 
 form input,
 form button {
@@ -50,7 +54,7 @@ form button:hover {
 }
 
 .todo-list {
-  min-width: 30%;
+  min-width: 50%;
   list-style: none;
 }
 
