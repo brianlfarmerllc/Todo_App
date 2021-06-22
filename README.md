@@ -90,5 +90,5 @@ There is a larger todo app chalange on frontend mentor that I want to complete a
 
 ## Author
 
-- Website - [Brian Farmer](https://brianlfarmerllc-biosite.netlify.app/)
+- Website - [Portfolio Site](https://brianfarmerwebdev.netlify.app)
 - GitHub URL: - [GitHub URL](https://github.com/brianlfarmerllc)
